@@ -1,6 +1,6 @@
 # 💫 About Me:
 <b> Hi, I'm **Satyam Soni**! 🚀 
-I am an 18-year-old B.Tech CSE student from Sirsa, Haryana.</b> 🤖✨
+I am an 18-year-old From Sirsa, Haryana . Pursuing My B.Tech CSE Degree From SIET Panchkula</b> 🤖✨
 
 
 ## 🌐 Socials:
