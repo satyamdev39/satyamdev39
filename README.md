@@ -1,5 +1,6 @@
 # 💫 About Me:
-My Name Is Satyam Soni, 18 Years 
+Hi, I'm **Satyam Soni**! 🚀 
+I am an 18-year-old B.Tech CSE student from Sirsa, Haryana. My ultimate coding dream is to build an intelligent AI assistant like **Jarvis**. 🤖✨
 
 
 ## 🌐 Socials:
