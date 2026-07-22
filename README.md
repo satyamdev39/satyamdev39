@@ -1,5 +1,5 @@
 ###
-# 👋 Hi, I'm Satyam 
+# Hi, I'm Satyam 
 A **Cybersecurity Student** passionate about learning digital defense, ethical hacking, and building a career in Tech Fields.
 *   🛠️ **Tech Stack:** Python, MySQL, Linux
 *   🛠️ **Focus Areas:** Network Security, CTFs/Ethical Hacking, Linux, & Threat Analysis
