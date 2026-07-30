@@ -46,9 +46,8 @@ I believe in exploring beyond boundaries — from cybersecurity and software dev
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/ig.satyam10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsatyamsoni24)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/satyamdev39)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@your_username)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.gg/your_invite)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.gg/heresatyam9)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/heresatyam)
 
 
 
