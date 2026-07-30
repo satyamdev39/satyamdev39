@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Satyam Soni
+Hi ! My name is Satyam Soni
 ====================================================================================================================================
 
-I'm an 18 years old B.Tech student from India, passionate about technology, programming, and continuous learning.
+I'm an 18 years old B.Tech student from India, passionate about **technology, programming, and continuous learning.**
 
 I believe in exploring beyond boundaries — from cybersecurity and software development to new technologies, creative problem-solving, and open-source projects. I'm always curious to learn, experiment, build, and improve my skills across different domains.
 
@@ -9,11 +9,37 @@ I believe in exploring beyond boundaries — from cybersecurity and software dev
 * 🖥️  See my portfolio at [Working On Portfolio](http://mya)
 * ✉️  You can contact me at [heresatyam11@gmail.com](mailto:heresatyam11@gmail.com)
 * 🚀  I'm currently working on Python Based Projects
-* 🧠  I'm currently learning Python Advanced Level 
+* 🧠  I'm currently learning Python Advanced Level
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-</p>
+----
+
+### Tools & Environment
+![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/mysql-white?style=for-the-badge&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/linux-white?style=for-the-badge&labelColor=yellow&color=yellow)
+![Static Badge](https://img.shields.io/badge/git%20for%20windows-white?style=for-the-badge&labelColor=yellow&color=orange)
+![Static Badge](https://img.shields.io/badge/github-white?style=for-the-badge&labelColor=yellow&color=1E3A8A)
+![Static Badge](https://img.shields.io/badge/json-white?style=for-the-badge&labelColor=yellow&color=4F46E5)
+![Static Badge](https://img.shields.io/badge/vs%20code-white?style=for-the-badge&labelColor=yellow&color=007ACC)
+![Static Badge](https://img.shields.io/badge/sublime-white?style=for-the-badge&labelColor=yellow&color=FF9800)
+![Static Badge](https://img.shields.io/badge/vercel-white?style=for-the-badge&labelColor=yellow&color=000000)
+![Static Badge](https://img.shields.io/badge/netlify-white?style=for-the-badge&labelColor=yellow&color=00C7B7)
+![Static Badge](https://img.shields.io/badge/pytest-white?style=for-the-badge&labelColor=yellow&color=0A9EDC)
+![Static Badge](https://img.shields.io/badge/html(basics)-white?style=for-the-badge&labelColor=yellow&color=red)
+![Static Badge](https://img.shields.io/badge/discord-white?style=for-the-badge&labelColor=yellow&color=5865F2)
+![Static Badge](https://img.shields.io/badge/Obsidian-white?style=for-the-badge&labelColor=yellow&color=483699)
+![Static Badge](https://img.shields.io/badge/windows-white?style=for-the-badge&color=374151)
+![Static Badge](https://img.shields.io/badge/Brave-white?style=for-the-badge&color=FF4500)
+![Static Badge](https://img.shields.io/badge/firefox-white?style=for-the-badge&color=5B5BEF)
+
+
+
+
+
+
+
+
+
 
 ### Socials
 
