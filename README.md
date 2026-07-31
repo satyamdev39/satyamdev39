@@ -6,15 +6,20 @@
 
 ------
 
-I'm an 18 years old B.Tech student from India, passionate about **technology, programming, and continuous learning.**
+## 👨‍💻 About Me
 
-I believe in exploring beyond boundaries — from cybersecurity and software development to new technologies, creative problem-solving, and open-source projects. I'm always curious to learn, experiment, build, and improve my skills across different domains.
+I'm **Satyam**, an 18-year-old **B.Tech student** from 🇮🇳 India with a passion for **technology, programming, and continuous learning**.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Working On Portfolio](http://mya)
-* ✉️  You can contact me at [heresatyam11@gmail.com](mailto:heresatyam11@gmail.com)
-* 🚀  I'm currently working on Python Based Projects
-* 🧠  I'm currently learning Python Advanced Level
+I enjoy exploring different areas of computer science—from **Python development, cybersecurity, and software engineering** to **open-source contributions** and building real-world projects. I love solving problems, learning new technologies, and turning ideas into practical applications.
+
+* 🌍 **Location:** India
+* 🎓 **Education:** B.Tech Student
+* 💼 **Portfolio:** *Coming Soon*
+* ✉️ **Email:** **[heresatyam11@gmail.com](mailto:heresatyam11@gmail.com)**
+* 🚀 **Currently Building:** Python-based projects
+* 🧠 **Currently Learning:** Advanced Python
+* ⚡ **Fun Fact:** I believe every project is an opportunity to learn something new.
+
 
 ----
 
