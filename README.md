@@ -49,7 +49,7 @@ I believe in exploring beyond boundaries — from cybersecurity and software dev
 
 
 
-### Support Me
+### Support
 <a href="https://buymeacoffee.com/heresatyam9" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
 </a>
