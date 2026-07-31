@@ -1,9 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Satyam;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Satyam;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 </div>
-
 ------
 
 I'm an 18 years old B.Tech student from India, passionate about **technology, programming, and continuous learning.**
