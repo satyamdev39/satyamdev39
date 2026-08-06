@@ -37,7 +37,6 @@ I enjoy exploring different areas of computer science—from **Python developmen
 ![Static Badge](https://img.shields.io/badge/pytest-white?style=for-the-badge&labelColor=yellow&color=0A9EDC)
 ![Static Badge](https://img.shields.io/badge/html(basics)-white?style=for-the-badge&labelColor=yellow&color=red)
 ![Static Badge](https://img.shields.io/badge/discord-white?style=for-the-badge&labelColor=yellow&color=5865F2)
-![Static Badge](https://img.shields.io/badge/Obsidian-white?style=for-the-badge&labelColor=yellow&color=483699)
 ![Static Badge](https://img.shields.io/badge/windows-white?style=for-the-badge&color=374151)
 ![Static Badge](https://img.shields.io/badge/Brave-white?style=for-the-badge&color=FF4500)
 ![Static Badge](https://img.shields.io/badge/firefox-white?style=for-the-badge&color=5B5BEF)
