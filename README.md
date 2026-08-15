@@ -36,7 +36,6 @@ I enjoy exploring different areas of computer science—from **Python developmen
 ![Static Badge](https://img.shields.io/badge/netlify-white?style=for-the-badge&labelColor=yellow&color=00C7B7)
 ![Static Badge](https://img.shields.io/badge/pytest-white?style=for-the-badge&labelColor=yellow&color=0A9EDC)
 ![Static Badge](https://img.shields.io/badge/html(basics)-white?style=for-the-badge&labelColor=yellow&color=red)
-![Static Badge](https://img.shields.io/badge/discord-white?style=for-the-badge&labelColor=yellow&color=5865F2)
 ![Static Badge](https://img.shields.io/badge/windows-white?style=for-the-badge&color=374151)
 ![Static Badge](https://img.shields.io/badge/Brave-white?style=for-the-badge&color=FF4500)
 ![Static Badge](https://img.shields.io/badge/firefox-white?style=for-the-badge&color=5B5BEF)
@@ -48,7 +47,6 @@ I enjoy exploring different areas of computer science—from **Python developmen
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/ig.satyam10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsatyamsoni24)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/satyamdev39)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.gg/heresatyam9)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/heresatyam)
 
 
