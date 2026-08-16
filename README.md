@@ -16,8 +16,8 @@ I enjoy exploring different areas of computer science—from **Python developmen
 * 🎓 **Education:** B.Tech Student
 * 💼 **Portfolio:** *Coming Soon*
 * ✉️ **Email:** **[heresatyam11@gmail.com](mailto:heresatyam11@gmail.com)**
-* 🚀 **Currently Building:** Python-based projects
-* 🧠 **Currently Learning:** Advanced Python
+* 🚀 **Currently Building:** My Portfolio
+* 🧠 **Currently Learning:** Technolgies
 * ⚡ **Fun Fact:** I believe every project is an opportunity to learn something new.
 
 
