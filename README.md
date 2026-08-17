@@ -24,20 +24,18 @@ I enjoy exploring different areas of computer science—from **Python developmen
 ----
 
 ### Tools & Environment
-![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&labelColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/mysql-white?style=for-the-badge&labelColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/linux-white?style=for-the-badge&labelColor=yellow&color=yellow)
-![Static Badge](https://img.shields.io/badge/git%20for%20windows-white?style=for-the-badge&labelColor=yellow&color=orange)
-![Static Badge](https://img.shields.io/badge/github-white?style=for-the-badge&labelColor=yellow&color=1E3A8A)
-![Static Badge](https://img.shields.io/badge/json-white?style=for-the-badge&labelColor=yellow&color=4F46E5)
-![Static Badge](https://img.shields.io/badge/vs%20code-white?style=for-the-badge&labelColor=yellow&color=007ACC)
-![Static Badge](https://img.shields.io/badge/sublime-white?style=for-the-badge&labelColor=yellow&color=FF9800)
-![Static Badge](https://img.shields.io/badge/vercel-white?style=for-the-badge&labelColor=yellow&color=000000)
-![Static Badge](https://img.shields.io/badge/netlify-white?style=for-the-badge&labelColor=yellow&color=00C7B7)
-![Static Badge](https://img.shields.io/badge/html(basics)-white?style=for-the-badge&labelColor=yellow&color=red)
-![Static Badge](https://img.shields.io/badge/windows-white?style=for-the-badge&color=374151)
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5%20Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ### Socials
