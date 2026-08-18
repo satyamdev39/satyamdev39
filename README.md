@@ -1,4 +1,4 @@
-<div align="center">
+_<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Satyam;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
@@ -36,6 +36,7 @@ I enjoy exploring different areas of computer science—from **Python developmen
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5%20Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-black?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ### Socials
@@ -59,3 +60,4 @@ I enjoy exploring different areas of computer science—from **Python developmen
 ⭐ If you like my work, consider starring my repositories.
 
 </div>
+_
