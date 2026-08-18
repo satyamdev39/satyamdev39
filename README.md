@@ -37,7 +37,7 @@ I enjoy exploring different areas of computer science—from **Python developmen
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5%20Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-black?style=for-the-badge&logo=openai&logoColor=white)
-
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Socials
 
