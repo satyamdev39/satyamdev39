@@ -39,7 +39,7 @@ I enjoy exploring different areas of computer science—from **Python developmen
 ![HTML5](https://img.shields.io/badge/HTML5%20Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-black?style=for-the-badge&logo=openai&logoColor=white)
 
-
+----
 
 ### Socials
 
@@ -48,7 +48,7 @@ I enjoy exploring different areas of computer science—from **Python developmen
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/satyamdev39)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/heresatyam)
 
-
+----
 
 ### Support
 <a href="https://buymeacoffee.com/heresatyam9" target="_blank">
